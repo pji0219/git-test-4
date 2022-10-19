@@ -65,7 +65,7 @@ function Signup2() {
           </LoadingButton>
           <Grid container justifyContent='flex-end'>
             <Grid item>
-              <Link to='/login'>이미 계정이 있나요? 로그인으로 이동</Link>
+              <Link to='/login'>이미 계정이 있나요?? 로그인으로 이동</Link>
             </Grid>
           </Grid>
         </Box>
